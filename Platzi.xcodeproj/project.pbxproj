@@ -13,6 +13,7 @@
 		01D3239926D55EDB006E26D0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 01D3239826D55EDB006E26D0 /* Preview Assets.xcassets */; };
 		01D323A426D55EDC006E26D0 /* PlatziTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01D323A326D55EDC006E26D0 /* PlatziTests.swift */; };
 		01D323AF26D55EDC006E26D0 /* PlatziUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01D323AE26D55EDC006E26D0 /* PlatziUITests.swift */; };
+		01F1F36626D566F9007E6DCB /* 04_swiftui-apps-ios-logo-name.png in Resources */ = {isa = PBXBuildFile; fileRef = 01F1F36526D566F9007E6DCB /* 04_swiftui-apps-ios-logo-name.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		01D323AA26D55EDC006E26D0 /* PlatziUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PlatziUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		01D323AE26D55EDC006E26D0 /* PlatziUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlatziUITests.swift; sourceTree = "<group>"; };
 		01D323B026D55EDC006E26D0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		01F1F36526D566F9007E6DCB /* 04_swiftui-apps-ios-logo-name.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "04_swiftui-apps-ios-logo-name.png"; path = "../../../Downloads/04_swiftui-apps-ios-logo-name.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 			children = (
 				01D3239126D55ED5006E26D0 /* PlatziApp.swift */,
 				01D3239326D55ED5006E26D0 /* ContentView.swift */,
+				01F1F36526D566F9007E6DCB /* 04_swiftui-apps-ios-logo-name.png */,
 				01D3239526D55EDB006E26D0 /* Assets.xcassets */,
 				01D3239A26D55EDB006E26D0 /* Info.plist */,
 				01D3239726D55EDB006E26D0 /* Preview Content */,
@@ -235,6 +238,7 @@
 			files = (
 				01D3239926D55EDB006E26D0 /* Preview Assets.xcassets in Resources */,
 				01D3239626D55EDB006E26D0 /* Assets.xcassets in Resources */,
+				01F1F36626D566F9007E6DCB /* 04_swiftui-apps-ios-logo-name.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
